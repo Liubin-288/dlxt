@@ -1,0 +1,1472 @@
+[
+  {
+    "model": "KVVP",
+    "spec": "2*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 4.32,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 8.141601
+  },
+  {
+    "model": "KVVP",
+    "spec": "2*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 4.72,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 8.886828
+  },
+  {
+    "model": "KVVP",
+    "spec": "2*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 9.445748
+  },
+  {
+    "model": "KVVP",
+    "spec": "2*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.88,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 11.047985
+  },
+  {
+    "model": "KVVP",
+    "spec": "2*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.04,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 13.283665
+  },
+  {
+    "model": "KVVP",
+    "spec": "2*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.96,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 14.997687
+  },
+  {
+    "model": "KVVP",
+    "spec": "2*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 2,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.935276
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 4.628,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 8.715426
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.0588,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 9.518035
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.3604,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 10.119992
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.3081,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 11.845601
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.5574,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 14.253429
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.5483,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.09943
+  },
+  {
+    "model": "KVVP",
+    "spec": "3*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 3,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.6684,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 18.186213
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.148,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 9.684221
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.6308,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 10.583709
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.9688,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 11.258326
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.0309,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 13.192226
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.431,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 15.890692
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.5415,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.959516
+  },
+  {
+    "model": "KVVP",
+    "spec": "4*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 4,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.7968,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 20.298186
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 5.72,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 10.749895
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.26,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 11.755951
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.638,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 12.510493
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.826,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 14.673513
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.392,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.691681
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.634,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 20.00561
+  },
+  {
+    "model": "KVVP",
+    "spec": "5*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 5,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.038,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.621355
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.32,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 11.867735
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.92,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 12.985575
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.34,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 13.823955
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.66,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.227311
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.4,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.580831
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.78,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.151863
+  },
+  {
+    "model": "KVVP",
+    "spec": "6*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 6,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.34,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 25.058247
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.32,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 11.867735
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.92,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 12.985575
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.34,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 13.823955
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.66,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.227311
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.4,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.580831
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.78,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.151863
+  },
+  {
+    "model": "KVVP",
+    "spec": "7*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 7,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.34,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 25.058247
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 6.92,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 12.985575
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.58,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 14.215199
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.042,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 15.137417
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.494,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.781108
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.408,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 21.46998
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.926,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 24.298115
+  },
+  {
+    "model": "KVVP",
+    "spec": "8*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 8,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.682,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 33.195377
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 7.72,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 14.476028
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.46,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 15.854697
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.978,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.888699
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.606,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.852838
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.752,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 23.988846
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.494,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.792954
+  },
+  {
+    "model": "KVVP",
+    "spec": "9*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 9,
+    "copperDensity": 8.9,
+    "wrapDiameter": 16.418,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 37.094403
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.32,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 15.593868
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.12,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.084321
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.68,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 18.202161
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.44,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 21.406636
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.76,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 25.877996
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 15.64,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 35.368458
+  },
+  {
+    "model": "KVVP",
+    "spec": "10*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 10,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.72,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 40.018672
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.628,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.167693
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.4588,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.715528
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.0404,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 18.876405
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.8681,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.204252
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.3174,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.418523
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 16.2283,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 36.690549
+  },
+  {
+    "model": "KVVP",
+    "spec": "11*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 11,
+    "copperDensity": 8.9,
+    "wrapDiameter": 18.3884,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 41.519797
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 8.628,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 16.167693
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.4588,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.715528
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.0404,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 18.876405
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.8681,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.204252
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.3174,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.418523
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 16.2283,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 36.690549
+  },
+  {
+    "model": "KVVP",
+    "spec": "12*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 12,
+    "copperDensity": 8.9,
+    "wrapDiameter": 18.3884,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 41.519797
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.148,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 17.136487
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.0308,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 18.781202
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.6488,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 20.014739
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.5909,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 23.550877
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 15.191,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 34.383238
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.2215,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 38.922652
+  },
+  {
+    "model": "KVVP",
+    "spec": "14*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 14,
+    "copperDensity": 8.9,
+    "wrapDiameter": 19.5168,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 44.054164
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 9.72,
+    "wireDiameter": 0.12,
+    "copperTapeWeightPerKm": 18.202161
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.66,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.953444
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.318,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 21.266906
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.386,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 25.032164
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 16.152,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 36.544425
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 18.314,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 41.377965
+  },
+  {
+    "model": "KVVP",
+    "spec": "16*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 16,
+    "copperDensity": 8.9,
+    "wrapDiameter": 20.758,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 46.841967
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.32,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.320001
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.32,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 21.183068
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.02,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.580368
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.26,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.104365
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.16,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 38.811405
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 19.46,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 43.953469
+  },
+  {
+    "model": "KVVP",
+    "spec": "18*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 18,
+    "copperDensity": 8.9,
+    "wrapDiameter": 22.06,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 49.766237
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.32,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.320001
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.32,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 21.183068
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.02,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.580368
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.26,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.104365
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.16,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 38.811405
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 19.46,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 43.953469
+  },
+  {
+    "model": "KVVP",
+    "spec": "19*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 19,
+    "copperDensity": 8.9,
+    "wrapDiameter": 22.06,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 49.766237
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.628,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 19.893826
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.6588,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 21.814275
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.3804,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 23.254612
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.6881,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 33.061504
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.6774,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 39.975121
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 20.0483,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 45.275561
+  },
+  {
+    "model": "KVVP",
+    "spec": "20*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 20,
+    "copperDensity": 8.9,
+    "wrapDiameter": 22.7284,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 51.267362
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 10.92,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 20.437841
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 11.98,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 22.412692
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.722,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 23.89383
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 15.094,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 33.968922
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 18.168,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 41.078384
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 20.606,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 46.528972
+  },
+  {
+    "model": "KVVP",
+    "spec": "21*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 21,
+    "copperDensity": 8.9,
+    "wrapDiameter": 23.362,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 52.690506
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.32,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 23.046135
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.52,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 25.281815
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.4,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.551501
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.04,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 38.319555
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 20.52,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 46.368003
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 23.28,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 52.53848
+  },
+  {
+    "model": "KVVP",
+    "spec": "24*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 24,
+    "copperDensity": 8.9,
+    "wrapDiameter": 26.4,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 59.513802
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 12.628,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 23.619959
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.8588,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 25.913022
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.7604,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 33.360593
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 17.4681,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 39.276695
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 21.0374,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 47.531719
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 23.8683,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 53.860572
+  },
+  {
+    "model": "KVVP",
+    "spec": "27*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 27,
+    "copperDensity": 8.9,
+    "wrapDiameter": 27.0684,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 61.014927
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 13.148,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 24.588754
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.4708,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.575646
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 15.3688,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 34.726594
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 18.1909,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 40.892644
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 21.911,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 49.496435
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 24.8615,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 56.092675
+  },
+  {
+    "model": "KVVP",
+    "spec": "30*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 30,
+    "copperDensity": 8.9,
+    "wrapDiameter": 28.1968,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 63.549293
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*0.50",
+    "conductorDiameter": 0.8,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 14.36,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 32.327933
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*0.75",
+    "conductorDiameter": 1,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 15.76,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 35.457885
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*1.0",
+    "conductorDiameter": 1.14,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 16.74,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 37.805349
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*1.5",
+    "conductorDiameter": 1.38,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 19.82,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 44.534746
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*2.5",
+    "conductorDiameter": 1.76,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 23.88,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 53.924602
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*4",
+    "conductorDiameter": 2.22,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 27.1,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 61.123491
+  },
+  {
+    "model": "KVVP",
+    "spec": "37*6",
+    "conductorDiameter": 2.74,
+    "coreCount": 37,
+    "copperDensity": 8.9,
+    "wrapDiameter": 30.74,
+    "wireDiameter": 0.15,
+    "copperTapeWeightPerKm": 69.261366
+  }
+]
