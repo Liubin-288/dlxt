@@ -1,0 +1,30 @@
+# Render 部署配置蓝图
+# 文档：https://render.com/docs/blueprint-spec
+# 使用方式：
+#   1. 在 render.com 创建新的 Web Service，选择 "From Blueprint"
+#   2. 连接 GitHub 仓库 Liubin-288/dlxt
+#   3. Render 会自动读取本文件并创建服务
+
+services:
+  - type: web
+    name: cable-copper-system      # 服务名称（会显示在 Render 控制台）
+    runtime: node
+    plan: free                     # 免费套餐（15分钟无访问会休眠）
+    region: singapore              # 新加坡区域（亚太最近，国内访问较快）
+    branch: main                   # 跟踪 main 分支
+    rootDir: .                     # 项目根目录
+    buildCommand: npm install && npx prisma generate && npm run build:render
+    startCommand: cd .next/standalone && node server.js
+    healthCheckPath: /             # 用首页做健康检查
+    autoDeploy: true               # git push 后自动部署
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        value: file:/var/data/custom.db
+      - key: PORT
+        value: 3000
+    disk:                          # 持久磁盘（保存数据库文件，避免部署时丢失）
+      name: cable-data
+      mountPath: /var/data
+      sizeGB: 1                    # 免费 1GB 足够（数据库仅 268KB）
