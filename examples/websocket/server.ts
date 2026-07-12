@@ -3,7 +3,6 @@ import { Server } from 'socket.io'
 
 const httpServer = createServer()
 const io = new Server(httpServer, {
-  // DO NOT change the path, it is used by Caddy to forward the request to the correct port
   path: '/',
   cors: {
     origin: "*",
@@ -49,7 +48,6 @@ const createUserMessage = (username: string, content: string): Message => ({
 io.on('connection', (socket) => {
   console.log(`User connected: ${socket.id}`)
 
-  // Add test event handler
   socket.on('test', (data) => {
     console.log('Received test message:', data)
     socket.emit('test-response', { 
@@ -62,20 +60,16 @@ io.on('connection', (socket) => {
   socket.on('join', (data: { username: string }) => {
     const { username } = data
     
-    // Create user object
     const user: User = {
       id: socket.id,
       username
     }
     
-    // Add to user list
     users.set(socket.id, user)
     
-    // Send join message to all users
     const joinMessage = createSystemMessage(`${username} joined the chat room`)
     io.emit('user-joined', { user, message: joinMessage })
     
-    // Send current user list to new user
     const usersList = Array.from(users.values())
     socket.emit('users-list', { users: usersList })
     
@@ -97,10 +91,8 @@ io.on('connection', (socket) => {
     const user = users.get(socket.id)
     
     if (user) {
-      // Remove from user list
       users.delete(socket.id)
       
-      // Send leave message to all users
       const leaveMessage = createSystemMessage(`${user.username} left the chat room`)
       io.emit('user-left', { user: { id: socket.id, username: user.username }, message: leaveMessage })
       
@@ -115,9 +107,12 @@ io.on('connection', (socket) => {
   })
 })
 
-const PORT = 3003
-httpServer.listen(PORT, () => {
-  console.log(`WebSocket server running on port ${PORT}`)
+// ========== 这里是修改的地方 ==========
+// 读取Railway自动注入的PORT环境变量，兜底3003
+const PORT = process.env.PORT || 3003
+// 第二个参数填 0.0.0.0，监听所有网卡，外网才能访问
+httpServer.listen(PORT, '0.0.0.0', () => {
+  console.log(`WebSocket server running on 0.0.0.0:${PORT}`)
 })
 
 // Graceful shutdown
